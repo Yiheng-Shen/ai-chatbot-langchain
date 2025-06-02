@@ -8,3 +8,6 @@ This is a demo of an LLM-based chatbot using RAG within Databricks. This chatbot
 6. Set up a task to trigger ingestion and retraining when new PDFs are added.  
 
 Please find the code in the html files for setting up the tables, handling incremental PDF ingestion, and deploying the RAG chatbot, in case you're interested in taking a look.
+
+### A demo of interacting with the chatbot
+<img width="897" alt="WechatIMG8991" src="https://github.com/user-attachments/assets/e6edb26e-7567-435e-a006-e751c91238ce" />
